@@ -19,7 +19,7 @@ const App = () => {
       <div className='col col-lg-5 col-md-12 col-12 text-center'>
       <img src={MyImage} alt="img" className='img-fluid myimg'/>
       </div>
-      <div className='col col-lg-6 col-md-12 col-12'>
+      <div className='col col-lg-6 col-md-12 col-xs-12 col-12'>
       <Details/>
       </div>
 
